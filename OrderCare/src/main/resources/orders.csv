@@ -1,0 +1,13 @@
+# ORDER_ID,ITEM_DESCRIPTION,ITEM_PRICE,QUANTITY
+# Order - 1,,,
+Order 1,book,12.49,1
+Order 1,music CD,14.99,1
+Order 1,chocolate bar,0.85,1
+# Order - 2,,,
+Order 2,imported box of chocolate,10,1
+Order 2,imported bottle of perfume,47.5,1
+# Order - 3,,,
+Order 3,Imported bottle of perfume,27.99,1
+Order 3,bottle of perfume,18.99,1
+Order 3,packet of headache pills,9.75,1
+Order 3,box of imported chocolates,11.25,1
